@@ -1,0 +1,7 @@
+
+Practice
+========
+
+	** Hello Welcome to myWorld
+.. automodule:: practice
+   :members:
