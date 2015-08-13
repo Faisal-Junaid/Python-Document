@@ -218,10 +218,9 @@ class myPractice(object):
 			in Taiwan.
 		.. This is comment: Put Tainan.py in this paragraph.
 			
-			
-			
+		Images
+		===========
 		
-		**Images**:
 			- Screen Shots can be added in the documentation
 			- Logo can be added to the documentation
 			* The Example is given below
