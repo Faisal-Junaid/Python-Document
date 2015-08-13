@@ -221,7 +221,7 @@ class myPractice(object):
 		- Logo can be added to the documentation
 		- The Example is given below
 	
-		.. image:: _static\IMG.jpg
+	.. image:: _static\IMG.jpg
 	
 		
 
