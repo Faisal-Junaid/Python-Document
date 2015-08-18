@@ -1,10 +1,12 @@
 
 Practice
 ========
+.. image:: _static/icon.png
 	
-	:Author:
-		M.Faisal Junaid Butt
-		 		 
-	:Data:	28-07-2015
+:Author:
+	M.Faisal Junaid Butt
+			 
+:Data:	28-07-2015
 .. automodule:: practice
    :members:
+   

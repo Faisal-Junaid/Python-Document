@@ -5,6 +5,7 @@
 
 Welcome to Introduction to Python's documentation! by M.Faisal Junaid Butt 
 ==========================================================================
+.. image:: _static/icon.png
 
 Contents:
 

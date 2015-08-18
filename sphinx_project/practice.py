@@ -1,8 +1,8 @@
 class myPractice(object):
 	""" 
-		  *The example below illustrate the simple table
+		The example below illustrate the simple table
 		  
-		  .. note::
+		.. note::
 			This Documentation is created by M.Faisal Junaid Butt.
 			
 			
@@ -221,7 +221,7 @@ class myPractice(object):
 		- Logo can be added to the documentation
 		- The Example is given below
 	
-	.. image:: _static\IMG.jpg
+	.. image:: _static\cover.jpg
 	
 		
 
